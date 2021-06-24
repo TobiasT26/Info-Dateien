@@ -1,0 +1,24 @@
+#h1 {display: flex; justify-content: center; align-items: center; border-style: solid;
+    margin-left: auto; margin-right: auto; width: fit-content; border-width: 3px;
+     font-style: italic;
+    font-weight: bolder; font-size: 50px}
+
+#h2 {display: flex; justify-content: center; align-items: center; margin-top: 30px;
+     border-style: dotted; margin-right: auto; margin-left: auto; width: fit-content;
+     }
+
+#h3 {display: flex; justify-content: center; align-items: center; border-style: double;
+     margin-left: auto; margin-right: auto; width: 1080px; margin-top: 30px;
+     height: 3000px}
+
+#h4 {position: fixed; right:20px; margin-left: auto; bottom: 10px;}
+
+#h5 {position: fixed; justify-content: center; align-items: center;
+     right: 20px; margin-left: 20px; top: 165px;
+     border-style: dashed; margin-bottom: 20px; width: 370px;
+     height: 575px;}
+
+button {padding-left: 5px; padding-right: 5px; margin: 5px}
+
+#h6 {position: fixed; justify-content: center; align-items: center; left: 20px;
+     top: 165px; height: 700px; width: 370px; border-style: solid; bottom: 20px;}
